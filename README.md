@@ -1,6 +1,9 @@
 # ¡Hola, soy Alejandro Arcas León! 👋
 
-Soy un desarrollador Android apasionado de Barcelona, España, con una fuerte inclinación hacia Jetpack Compose y una curiosidad insaciable por las tecnologías emergentes. En mi carrera he explorado diversas áreas del desarrollo móvil, y actualmente estoy sumergiéndome en el mundo multiplataforma con Kotlin Multiplatform y Compose Multiplatform.
+Un apasionado desarrollador Android con 3 años de experiencia construyendo aplicaciones móviles. A lo largo de mi trayectoria, he colaborado en diversos proyectos donde he adquirido sólidas habilidades en clean architecture tanto en el backend como en el frontend, gestión de bases de datos y diseño de interfaces intuitivas y atractivas. Estoy constantemente explorando nuevas tecnologías y recursos para mantenerme actualizado y ofrecer soluciones innovadoras a los desafíos de desarrollo.
+
+![alejandroArcasDev's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 Sobre Mí
 
