@@ -1,40 +1,25 @@
-# Hi, I'm AlejandroArcasDev! 👋
+# ¡Hola, soy Alejandro Arcas León! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Soy un desarrollador Android apasionado de Barcelona, España, con una fuerte inclinación hacia Jetpack Compose y una curiosidad insaciable por las tecnologías emergentes. En mi carrera he explorado diversas áreas del desarrollo móvil, y actualmente estoy sumergiéndome en el mundo multiplataforma con Kotlin Multiplatform y Compose Multiplatform.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## 🚀 Sobre Mí
 
-## 🚀 About Me
+- 🔭 Actualmente trabajo como desarrollador Android en NovaStudio AI Lab, donde contribuyo al desarrollo de aplicaciones innovadoras.
+- 🏫 Estudié en el Instituto Tecnológico de Barcelona, donde me formé en tecnología y desarrollo de software.
+- 🌐 Mi portafolio está disponible en alejandroarcasdev.github.io, donde puedes ver algunos de mis proyectos.
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+## Mi Stack Tecnológico
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,androidstudio,flutter,dart,docker,postgres,mongodb,git,vscode,figma)](https://skillicons.dev)
 
+## 🌱 Explorando Actualmente
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- 🚀 Desarrollo Multiplataforma
+  - 🎨 Jetpack Compose y Compose Multiplatform: Aprofundizando en Compose para diseñar interfaces de usuario modernas, tanto en Android como en entornos multiplataforma.
 
-## 🌱 Currently Exploring
+## 📬 Contacto
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/alejandro-arcas-leon-58923523a/)
+- Explora mis proyectos en mi [Portafolio](https://alejandroarcasdev.github.io)
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Gracias por pasarte por aquí. ¡Hablemos y exploremos juntos el fascinante mundo del desarrollo Android y multiplataforma! 🚀
