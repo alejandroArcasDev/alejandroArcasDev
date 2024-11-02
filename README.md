@@ -2,7 +2,7 @@
 
 Un apasionado desarrollador Android con 3 años de experiencia construyendo aplicaciones móviles. A lo largo de mi trayectoria, he colaborado en diversos proyectos donde he adquirido sólidas habilidades en clean architecture tanto en el backend como en el frontend, gestión de bases de datos y diseño de interfaces intuitivas y atractivas. Estoy constantemente explorando nuevas tecnologías y recursos para mantenerme actualizado y ofrecer soluciones innovadoras a los desafíos de desarrollo.
 
-![alejandroArcasDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroArcasDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![alejandroArcasDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandroArcasDev&theme=vue-dark&hide_border=true) ![alejandroArcasDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroArcasDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 Sobre Mí
 
